@@ -7,7 +7,7 @@ Other*/
 global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
-global.owner = ['6289501060783','6289501060783','6289501060783']
+global.owner = ['6281779012824','6283188622570','6289501060783']
 global.footer = "Deffbotz ~ Deff"
 global.fake = "Deffbotz ~ Deff"
 global.namebot = "DEFFBOTZ - DEFF"
